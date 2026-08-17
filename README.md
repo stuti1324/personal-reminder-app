@@ -35,4 +35,3 @@ Example:
 Project Purpose:
 This project was created as a beginner-friendly Python desktop application to practice GUI development, database management, functions, input validation, and CRUD operations.
 
-This project was created as a beginner-friendly Python desktop application to practice GUI development, database management, functions, input validation, and CRUD operations.
